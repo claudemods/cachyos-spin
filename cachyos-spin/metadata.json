@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "claudemods101@gmail.com",
+                "Name": "aaron dsouza"
+            }
+        ],
+        "Category": "",
+        "Description": "Custom Cachyos Splash For Plasma 6",
+        "Id": "cachyos-spin",
+        "License": "GPLv3",
+        "Name": "cachyos-spin",
+        "Website": "https://github.com/L4ki/Magna-Plasma-Themes"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
